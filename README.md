@@ -223,6 +223,4 @@ If someone clones this project and wants the fastest successful setup, the safes
 5. Fix the upload path in `resources/khoahoc.json`
 6. Run one of the classes inside `src/Test/`
 
-## License
-
 Add your preferred license here, for example MIT, Apache-2.0, or a private academic/project license.
