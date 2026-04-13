@@ -1,0 +1,44 @@
+[
+  {
+    "HoTen": "Nguyễn Bảo Thiên",
+    "MaHocVien": "HV8273",
+    "Email": "nbthien8273@gmail.com",
+    "SoDienThoai": "0938472831",
+    "GioiTinh": "Nam",
+    "NgaySinh": "04-12-1998",
+    "DiaChi": "Số 12 Phù Đổng Thiên Vương, Phường 8, TP. Đà Lạt, Lâm Đồng",
+    "DuLieuCapNhat": {
+      "MaHocVien": "HV8274",
+      "SoDienThoai": "0908765432",
+      "DiaChi": "Số 15 Phù Đổng Thiên Vương, TP. Đà Lạt"
+    }
+  },
+  {
+    "HoTen": "Lê Trọng Nghĩa",
+    "MaHocVien": "HV5912",
+    "Email": "ltnghia5912@gmail.com",
+    "SoDienThoai": "0987123999",
+    "GioiTinh": "Nu",
+    "NgaySinh": "11-25-2001",
+    "DiaChi": "45A Đường 30/4, Phường Hưng Lợi, Quận Ninh Kiều, TP. Cần Thơ",
+    "DuLieuCapNhat": {
+      "MaHocVien": "HV5913",
+      "SoDienThoai": "0971234567",
+      "DiaChi": "45B Đường 30/4, TP. Cần Thơ"
+    }
+  },
+  {
+    "HoTen": "Lê Anh Việt",
+    "MaHocVien": "HV3341",
+    "Email": "laviet3341@gmail.com",
+    "SoDienThoai": "0912334455",
+    "GioiTinh": "Khac",
+    "NgaySinh": "09-09-1999",
+    "DiaChi": "102 Lê Lợi, Phường Máy Tơ, Quận Ngô Quyền, TP. Hải Phòng",
+    "DuLieuCapNhat": {
+      "MaHocVien": "HV3342",
+      "SoDienThoai": "0945678900",
+      "DiaChi": "105 Lê Lợi, TP. Hải Phòng"
+    }
+  }
+]

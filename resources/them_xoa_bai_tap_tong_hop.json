@@ -1,0 +1,50 @@
+[
+  {
+    "tenBaiTap": "Bài tập Tổng hợp End-to-End 2026",
+    "tenFileAnhBia": "test_image.jpg",
+    "danhSachCauHoiThemMoi": [
+      {
+        "loaiCauHoi": "VanBan",
+        "noiDungCauHoi": "Câu hỏi văn bản thuần túy: 1 + 1 = ?",
+        "danhSachCauTraLoi": ["1", "2", "3", "4"],
+        "indexDapAnDung": 1
+      },
+      {
+        "loaiCauHoi": "AmThanh",
+        "fileDinhKem": "tieng-cuoi-thay-ba.mp3",
+        "noiDungCauHoi": "Nghe đoạn băng và chọn đáp án:",
+        "danhSachCauTraLoi": ["A", "B", "C", "D"],
+        "indexDapAnDung": 0
+      },
+      {
+        "loaiCauHoi": "HinhAnh",
+        "fileDinhKem": "anh_cau_hoi_1.jpg",
+        "noiDungCauHoi": "Bức ảnh này chụp ở đâu?",
+        "danhSachCauTraLoi": ["Hà Nội", "Huế", "Đà Nẵng", "TP.HCM"],
+        "indexDapAnDung": 3
+      },
+      {
+        "loaiCauHoi": "Video",
+        "fileDinhKem": "Vbw9GCKEeRk", 
+        "noiDungCauHoi": "1S STARK trong video đã có KDA là bao nhiêu với vị trướng Yan?",
+        "danhSachCauTraLoi": ["321", "360", "401", "345"],
+        "indexDapAnDung": 0
+      },
+      {
+        "loaiCauHoi": "TuLuan",
+        "fileDinhKem": "1000", 
+        "noiDungCauHoi": "Hãy viết một đoạn văn ngắn nêu cảm nghĩ của bạn.",
+        "danhSachCauTraLoi": [],
+        "indexDapAnDung": 0
+      }
+    ],
+	"danhSachCauHoiCapNhat": [
+	      {
+	        "loaiCauHoi": "VanBan",
+	        "noiDungCauHoi": "Câu hỏi tự động thêm vào lúc CẬP NHẬT (Data từ JSON)",
+	        "danhSachCauTraLoi": ["Đáp án JSON A", "Đáp án JSON B", "Đáp án JSON C","Đáp án JSON D"],
+	        "indexDapAnDung": 2
+	      }
+	  ]
+  }
+]

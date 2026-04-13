@@ -1,0 +1,23 @@
+[
+  {
+    "CourseName": "Test Nhóm 03",
+    "Chapters": [
+      {
+        "ChapterName": "Tổng quan kiểm thử phần mềm",
+        "Lessons": [
+          "Bài số 1: Kiểm thử phần mềm là gì",
+          "Bài số 2: Vai trò của tester"
+        ]
+      },
+      {
+        "ChapterName": "Kỹ thuật kiểm thử",
+        "Lessons": [
+          "Bài số 1: Black Box Testing",
+          "Bài số 2: White Box Testing"
+        ]
+      }
+    ],
+    "ForumResponse": "Đây là diễn đàn thảo luận về môn Automation Testing. Hãy chia sẻ kiến thức, đặt câu hỏi và giúp đỡ nhau trong quá trình học tập!",
+    "ExpectedVideoUrl": "meet.google.com"
+  }
+]

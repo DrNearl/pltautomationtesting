@@ -1,0 +1,14 @@
+[
+  {
+    "tenBaiTap": "Bài kiểm tra Địa lý (Có hình ảnh)",
+    "duongDanAnhCauHoi": "anh_cau_hoi_1.jpg",
+    "noiDungCauHoi": "Dựa vào bức ảnh trên, hãy cho biết đây là địa danh nào của Việt Nam?",
+    "danhSachCauTraLoi": [
+      "Vịnh Hạ Long",
+      "Phong Nha - Kẻ Bàng",
+      "Tràng An - Ninh Bình",
+      "Phố cổ Hội An"
+    ],
+    "indexDapAnDung": 0
+  }
+]

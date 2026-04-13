@@ -1,0 +1,10 @@
+[
+  {
+    "tenBaiTap": "Bài tập Listening số 1",
+    "loaiCauHoi": "AmThanh",
+    "tenFileAmThanh": "tieng-cuoi-thay-ba.mp3",
+    "noiDungCauHoiText": "Listen to the audio and choose the correct answer:",
+    "danhSachCauTraLoi": ["A", "B", "C", "D"],
+    "indexDapAnDung": 1
+  }
+]

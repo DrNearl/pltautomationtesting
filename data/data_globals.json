@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "Tổng quan kiểm thử phần mềm",
+    "Body": "Giới thiệu về kiểm thử phần mềm, vai trò của tester trong dự án và các khái niệm cơ bản.",
+    "Lessons": [
+      {
+        "TitleLS": "Kiểm thử phần mềm là gì",
+        "BodyLS": "Kiểm thử phần mềm là quá trình xác minh và xác nhận rằng phần mềm hoạt động đúng như yêu cầu."
+      },
+      {
+        "TitleLS": "Vai trò của tester",
+        "BodyLS": "Tester chịu trách nhiệm phát hiện lỗi, đảm bảo chất lượng sản phẩm trước khi release."
+      }
+    ]
+  },
+  {
+    "Title": "Kỹ thuật kiểm thử",
+    "Body": "Tìm hiểu các kỹ thuật kiểm thử phổ biến trong manual testing.",
+    "Lessons": [
+      {
+        "TitleLS": "Black Box Testing",
+        "BodyLS": "Kiểm thử hộp đen tập trung vào input và output mà không quan tâm đến code bên trong."
+      },
+      {
+        "TitleLS": "White Box Testing",
+        "BodyLS": "Kiểm thử hộp trắng dựa trên cấu trúc code, thường do developer thực hiện."
+      }
+    ]
+  }
+]

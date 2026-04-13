@@ -1,0 +1,57 @@
+[
+  {
+    "tenBaiTap": "Bài tập Tiếng Anh số 1",
+    "danhSachCauHoi": [
+      {
+        "noiDungCauHoiText": "What is the capital of Vietnam?",
+        "danhSachCauTraLoi": ["Hanoi", "Ho Chi Minh", "Da Nang", "Hue"],
+        "indexDapAnDung": 0
+      },
+      {
+        "noiDungCauHoiText": "Which animal is known as the King of the Jungle?",
+        "danhSachCauTraLoi": ["Tiger", "Lion", "Elephant", "Bear"],
+        "indexDapAnDung": 1
+      },
+      {
+        "noiDungCauHoiText": "What is 2 + 2?",
+        "danhSachCauTraLoi": ["3", "4", "5", "6"],
+        "indexDapAnDung": 1
+      },
+      {
+        "noiDungCauHoiText": "Which planet is known as the Red Planet?",
+        "danhSachCauTraLoi": ["Earth", "Mars", "Jupiter", "Venus"],
+        "indexDapAnDung": 1
+      },
+      {
+        "noiDungCauHoiText": "What is the largest ocean on Earth?",
+        "danhSachCauTraLoi": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "indexDapAnDung": 3
+      },
+      {
+        "noiDungCauHoiText": "How many days are there in a week?",
+        "danhSachCauTraLoi": ["5", "6", "7", "8"],
+        "indexDapAnDung": 2
+      },
+      {
+        "noiDungCauHoiText": "What color do you get when you mix blue and yellow?",
+        "danhSachCauTraLoi": ["Green", "Purple", "Orange", "Brown"],
+        "indexDapAnDung": 0
+      },
+      {
+        "noiDungCauHoiText": "Which is the fastest land animal?",
+        "danhSachCauTraLoi": ["Cheetah", "Lion", "Horse", "Leopard"],
+        "indexDapAnDung": 0
+      },
+      {
+        "noiDungCauHoiText": "What is the boiling point of water in Celsius?",
+        "danhSachCauTraLoi": ["90", "100", "110", "120"],
+        "indexDapAnDung": 1
+      },
+      {
+        "noiDungCauHoiText": "Who wrote Romeo and Juliet?",
+        "danhSachCauTraLoi": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Homer"],
+        "indexDapAnDung": 1
+      }
+    ]
+  }
+]

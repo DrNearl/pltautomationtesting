@@ -1,0 +1,13 @@
+# Bỏ qua thư mục code đã biên dịch
+bin/
+
+# Bỏ qua report sinh ra tự động của TestNG
+test-output/
+
+# Bỏ qua video record (nếu đây là video sinh ra tự động khi chạy test)
+video/
+
+# (Tuỳ chọn) Bỏ qua các file cấu hình riêng của IDE Eclipse
+.settings/
+.classpath
+.project
